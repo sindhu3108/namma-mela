@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Namma Mela</string>
+    <string name="booked">Booked</string>
+    <string name="title_namma_mela">🎭 Namma Mela</string>
+    <string name="tonights_play">Tonight\'s Play: Company Nataka</string>
+    <string name="tonights_play_format">Tonight\'s Play: %1$s</string>
+    <string name="duration">Duration: 2 hours</string>
+    <string name="location">Location: Village Stage</string>
+    <string name="view_cast">View Cast</string>
+    <string name="book_seats">Book Seats</string>
+    <string name="fan_wall">Fan Wall</string>
+    <string name="poster_desc">Poster</string>
+
+    <string name="cast_list_title">🎭 Cast List</string>
+    <string name="hero_name">Hero: Raju</string>
+    <string name="hero_desc">Hero Image</string>
+    <string name="comedian_name">Comedian: Mani</string>
+    <string name="comedian_desc">Comedian Image</string>
+    <string name="singer_name">Singer: Lakshmi</string>
+    <string name="singer_desc">Singer Image</string>
+
+    <string name="fan_wall_title">👏 Fan Wall</string>
+    <string name="write_comment_hint">Write a comment...</string>
+    <string name="no_bookings">No Bookings Yet</string>
+    <string name="booking_successful">Booking Successful!</string>
+    <string name="select_at_least_one">Please select at least one seat</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="post">Post</string>
+
+    <string name="select_seats_title">🪑 Select Seats</string>
+    <string name="update_play_hint">Change tonight\'s play...</string>
+    <string name="update_btn_text">Update Play</string>
+    <string name="logout">Logout</string>
+    <string name="my_bookings_format">My Bookings: %1$d Seats</string>
+    <string name="synopsis_text">Synopsis: An epic drama performed live under the big tent. Experience the culture, music, and emotions of our traditional Namma Mela.</string>
+    <string name="show_time">Time: 7:00 PM - 10:00 PM</string>
+    <string name="book_now">Book Seats Now</string>
+    <string name="guest">Guest</string>
+    <string name="welcome_to_namma_mela">Welcome to Namma Mela</string>
+    <string name="book_tickets">Book Tickets</string>
+    <string name="my_profile">My Profile</string>
+    <string name="stage">STAGE</string>
+    <string name="total_price_format">Total Price: ₹%1$d</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="fan_name_format">Fan Name ⭐5.0</string>
+    <string name="amazing_performance">Amazing performance!</string>
+    <string name="like_icon">Like Icon</string>
+    <string name="fan_user_format">Fan User ⭐5.0</string>
+    <string name="company_nataka">Company Nataka</string>
+    <string name="search_hint">Search shows, actors, or locations...</string>
+    <string name="categories">Categories</string>
+    <string name="recommended">Recommended for You</string>
+    <string name="nearby_fairs">Nearby Fairs</string>
+    <string name="location_default">Bangalore, Karnataka ▾</string>
+    <string name="see_all">See All ❯</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="update_banner_title">Update Banner Title</string>
+    <string name="update">Update</string>
+    <string name="category_drama">Drama</string>
+    <string name="show_info_format">Drama | 2h 30m</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="banner">Banner</string>
+    <string name="rating">Rating</string>
+</resources>

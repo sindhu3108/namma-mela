@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817650616761",
+    "project_id": "namma-mela-3db98",
+    "storage_bucket": "namma-mela-3db98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817650616761:android:6bc0ea8ea7914012a0ce68",
+        "android_client_info": {
+          "package_name": "com.example.nammamela"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEiOZ8TwOsIIrDNBD46zxH_RGtlEE8yiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

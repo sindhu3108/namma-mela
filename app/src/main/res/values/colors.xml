@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D0D0D</color>
+    <color name="card_dark">#1E1E1E</color>
+    <color name="accent_orange">#FF9800</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="seat_available">#4CAF50</color>
+    <color name="seat_selected">#2196F3</color>
+    <color name="seat_booked">#F44336</color>
+</resources>
